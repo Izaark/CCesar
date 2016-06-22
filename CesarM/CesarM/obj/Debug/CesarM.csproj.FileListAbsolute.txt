@@ -1,0 +1,9 @@
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\bin\Debug\CesarM.exe.config
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\bin\Debug\CesarM.exe
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\bin\Debug\CesarM.pdb
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.Form1.resources
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.Properties.Resources.resources
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.csproj.GenerateResource.Cache
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.exe
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.pdb
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.csprojResolveAssemblyReference.cache
